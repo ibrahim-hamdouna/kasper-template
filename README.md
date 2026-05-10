@@ -6,7 +6,7 @@ This is the second project in my Front-End development journey. **Kasper** is a 
 
 ## 🔗 Live Demo
 You can view the live preview of the website here:
-> **[View Live Site ✨](https://ibrahim-hamdouna.github.io/kasper-template/kasper.HTML)**
+> **[View Live Site ✨](https://ibrahim-hamdouna.github.io/kasper-template/kasper.html)**
 
 ---
 
